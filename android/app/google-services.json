@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384193728909",
+    "firebase_url": "https://gapiauthentication.firebaseio.com",
+    "project_id": "gapiauthentication",
+    "storage_bucket": "gapiauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384193728909:android:98c634631ae8ca12fd2dc4",
+        "android_client_info": {
+          "package_name": "com.firebaseauth.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384193728909-2b1obdteer5bk4bde2n3cqebkhtfgqq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebaseauth.firebaselogin",
+            "certificate_hash": "f5374198696c402f0e51ca39afb8750e4160f236"
+          }
+        },
+        {
+          "client_id": "384193728909-6cbrctbm7me4v5g2juqetlrv5lrsapeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvA0FcryWDk9L3NeuM95tuHpO7CA2jXqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384193728909-6cbrctbm7me4v5g2juqetlrv5lrsapeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
